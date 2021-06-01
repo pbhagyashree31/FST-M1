@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="Activities.Activity_1"/>
+      <class name="Activities.Activity_2"/>
+      <class name="Activities.Activity_3"/>
+      <class name="Activities.Activity_4"/>
+      <class name="Activities.Activity_5"/>
+      <class name="Activities.Activity_6"/>
+      <class name="Activities.Activity_7"/>
+      <class name="Activities.Activity_8"/>
+      <class name="Activities.Activity_9"/>  
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
